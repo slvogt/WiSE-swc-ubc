@@ -1,2 +1,2 @@
 # WiSE-swc-ubc
-Repository for Women in Science and Engineering SWC workshop at UBC. 
+Repository for Women in Science SWC workshop at UBC. 
